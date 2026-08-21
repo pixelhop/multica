@@ -6,7 +6,7 @@
   <img alt="Multica" src="docs/assets/logo-light.svg" width="50">
 </picture>
 
-# Multica
+# Multica x Pixelhop
 
 **Agents that show up on the board.**
 
